@@ -14,13 +14,18 @@ html, body {
     justify-content: center;
     min-height: 100%;
 }
+
 a {
     font-size: 15px; 
 }
 
 
 ul, ol {
-    color: rgb(46, 14, 225); 
+    color: rgb(46, 14, 225);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
   }
 
 #ghibli-logo {
